@@ -27,32 +27,3 @@ export default {
     }
 }
 </script>
-
-<!--        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>mon</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>tue</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>wed</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>thu</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>fri</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>sat</p>
-        </div>
-        <div class="chart__bar">
-            <div class="chart__bar-fill"></div>
-            <p>sun</p>
-        </div> -->

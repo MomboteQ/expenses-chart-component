@@ -29,6 +29,6 @@ import Chart from '@/components/Chart.vue'
     </div>
     <div class="attribution">
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-        Coded by <a href="#">MomboteQ</a>.
+        Coded by <a href="https://MomboteQ.github.io">MomboteQ</a>.
     </div>
 </template>

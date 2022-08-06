@@ -34,13 +34,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://momboteq.github.io/expenses-chart-component)
+- Live Site URL: [Live Site](https://momboteq.github.io/expenses-chart-component)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
 - Flexbox
 - CSS Grid
 - Desktop-first workflow
